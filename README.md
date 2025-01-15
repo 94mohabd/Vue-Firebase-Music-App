@@ -1,4 +1,4 @@
-# muso-ninjas
+# Vue-Firebase-Music-App
 
 ## Project setup
 ```
@@ -17,4 +17,3 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# Vue-Firebase-Music-App
